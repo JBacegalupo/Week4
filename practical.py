@@ -1,4 +1,5 @@
 import math
+
 def Task1_SQRT():
     import math
     print(math.sqrt(2401))

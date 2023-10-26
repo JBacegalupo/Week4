@@ -1,7 +1,6 @@
 def print_header(msg):
     print("***** " + str(msg))
 
-
 def find_min(a , b):
     if a == b:
         return "values are the same"
