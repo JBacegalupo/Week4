@@ -44,5 +44,3 @@ hypot = lambda a,b : math.sqrt(a * a + b * b)
 
 ToSeconds = lambda a,b = 0 : (a*60*60 + b*60)
 
-print(ToSeconds(2))
-print(ToSeconds(0 , 2))
